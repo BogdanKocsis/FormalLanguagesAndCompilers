@@ -1,0 +1,5 @@
+﻿  Grammar.cpp
+  Source.cpp
+  Generating Code...
+D:\lfc\Gramatica\Grammar.cpp(221,56): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Gramatica.vcxproj -> D:\lfc\Gramatica\x64\Debug\Gramatica.exe

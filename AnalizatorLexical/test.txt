@@ -1,0 +1,6 @@
+char m=7;
+/*buna*/
+if (7<=8)
+cout << da;
+struct 
+

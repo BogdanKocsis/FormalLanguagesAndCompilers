@@ -1,0 +1,11 @@
+3
+S A C
+3
+a b c
+S
+5
+S->AC
+A->aAb
+A->abbb
+C->Cc
+C->c
